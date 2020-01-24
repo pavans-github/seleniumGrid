@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21343" started-at="2020-01-24T03:57:46Z" finished-at="2020-01-24T03:58:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21343" started-at="2020-01-24T03:57:46Z" finished-at="2020-01-24T03:58:07Z">
+      <class name="gridDemo.WebshopeGridDemo">
+        <test-method status="PASS" signature="startapplication()[pri:0, instance:gridDemo.WebshopeGridDemo@6d78f375]" name="startapplication" duration-ms="21314" started-at="2020-01-24T03:57:46Z" finished-at="2020-01-24T03:58:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapplication -->
+      </class> <!-- gridDemo.WebshopeGridDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
